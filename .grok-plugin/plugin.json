@@ -1,7 +1,7 @@
 {
   "name": "yourgpt",
-  "version": "0.1.0",
-  "description": "Review YourGPT support conversations, analytics, training status, and project knowledge.",
+  "version": "0.1.1",
+  "description": "Analyze customer conversations, spot recurring issues, fix knowledge gaps, and tune YourGPT agents for better answers.",
   "author": {
     "name": "YourGPT",
     "url": "https://yourgpt.ai"

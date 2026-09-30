@@ -1,14 +1,14 @@
 {
   "name": "yourgpt",
-  "description": "Review YourGPT support conversations, analytics, training status, and project knowledge.",
+  "description": "Analyze customer conversations, spot recurring issues, fix knowledge gaps, and tune YourGPT agents for better answers.",
   "owner": {
     "name": "YourGPT"
   },
   "plugins": [
     {
       "name": "yourgpt",
-      "description": "Review YourGPT support conversations, analytics, training status, and project knowledge.",
-      "version": "0.1.0",
+      "description": "Analyze customer conversations, spot recurring issues, fix knowledge gaps, and tune YourGPT agents for better answers.",
+      "version": "0.1.1",
       "homepage": "https://yourgpt.ai",
       "keywords": [
         "yourgpt",
