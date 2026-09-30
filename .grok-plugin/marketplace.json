@@ -1,0 +1,27 @@
+{
+  "name": "yourgpt",
+  "description": "Review YourGPT support conversations, analytics, training status, and project knowledge.",
+  "owner": {
+    "name": "YourGPT"
+  },
+  "plugins": [
+    {
+      "name": "yourgpt",
+      "description": "Review YourGPT support conversations, analytics, training status, and project knowledge.",
+      "version": "0.1.0",
+      "homepage": "https://yourgpt.ai",
+      "keywords": [
+        "yourgpt",
+        "yourgpt support",
+        "yourgpt knowledge"
+      ],
+      "source": {
+        "type": "local",
+        "path": "./"
+      },
+      "domains": [
+        "yourgpt.ai"
+      ]
+    }
+  ]
+}

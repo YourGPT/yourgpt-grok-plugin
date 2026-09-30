@@ -1,0 +1,17 @@
+{
+  "name": "yourgpt",
+  "version": "0.1.0",
+  "description": "Review YourGPT support conversations, analytics, training status, and project knowledge.",
+  "author": {
+    "name": "YourGPT",
+    "url": "https://yourgpt.ai"
+  },
+  "homepage": "https://yourgpt.ai",
+  "repository": "https://github.com/YourGPT/yourgpt-grok-plugin",
+  "keywords": [
+    "yourgpt",
+    "yourgpt support",
+    "yourgpt knowledge"
+  ],
+  "license": "MIT"
+}
